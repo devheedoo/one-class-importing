@@ -1,0 +1,15 @@
+{
+  "name": "one-class-importing",
+  "version": "0.0.1",
+  "description": "Test for exporting/importing a class with GitHub URL",
+  "main": "index.js",
+  "repository": "https://github.com/devheedoo/one-class-importing.git",
+  "author": "Heedo Kim(Choco)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "one-class-exporting": "https://github.com/devheedoo/one-class-exporting.git#v0.0.4"
+  }
+}
